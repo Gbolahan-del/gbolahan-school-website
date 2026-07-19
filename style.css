@@ -109,7 +109,7 @@ color:#fafcfd;
 margin-bottom:15px;
 }
 .principal-text p{
-    color: #f5f9fd;
+    color: #333;
 }
 .why{
 padding:60px;
@@ -275,6 +275,7 @@ margin-bottom:20px;
 .principal-text p{
 line-height:1.8;
 font-size:17px;
+    color: #333;
 }
 @media(max-width:768px){
 .vision-mission{
